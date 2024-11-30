@@ -1,0 +1,445 @@
+Year,NOC,Gold,Silver,Bronze,Total
+1951,Japan (JPN),24,21,15,60
+1951,India (IND),15,16,20,51
+1951,Iran (IRI),8,6,2,16
+1951,Singapore (SGP),5,7,2,14
+1951,Philippines (PHI),5,6,8,19
+1951,Ceylon (CEY),0,1,0,1
+1951,Indonesia (INA),0,0,5,5
+1951,Burma (BIR),0,0,3,3
+1954,Japan (JPN),38,36,24,98
+1954,Philippines (PHI),14,14,17,45
+1954,South Korea (KOR),8,6,5,19
+1954,Pakistan (PAK),5,6,2,13
+1954,India (IND),5,4,8,17
+1954,Republic of China (ROC),2,4,7,13
+1954,Israel (ISR),2,1,1,4
+1954,Burma (BIR),2,0,2,4
+1954,Singapore (SGP),1,4,4,9
+1954,Ceylon (CEY),0,1,1,2
+1954,Afghanistan (AFG),0,1,0,1
+1954,Indonesia (INA),0,0,3,3
+1954,Hong Kong (HKG),0,0,1,1
+1958,Japan (JPN),67,41,30,138
+1958,Philippines (PHI),8,19,21,48
+1958,South Korea (KOR),8,7,12,27
+1958,Iran (IRI),7,14,11,32
+1958,Republic of China (ROC),6,11,17,34
+1958,Pakistan (PAK),6,11,9,26
+1958,India (IND),5,4,4,13
+1958,South Vietnam (VNM),2,0,4,6
+1958,Burma (BIR),1,2,1,4
+1958,Singapore (SGP),1,1,1,3
+1958,Ceylon (CEY),1,0,1,2
+1958,Thailand (THA),0,1,3,4
+1958,Hong Kong (HKG),0,1,1,2
+1958,Indonesia (INA),0,0,6,6
+1958,Malaya (MAL),0,0,3,3
+1958,Israel (ISR),0,0,2,2
+1962,Japan (JPN),73,56,23,152
+1962,Indonesia (INA),11,12,28,51
+1962,India (IND),10,13,10,33
+1962,Pakistan (PAK),8,11,9,28
+1962,Philippines (PHI),7,6,24,37
+1962,South Korea (KOR),4,9,10,23
+1962,Thailand (THA),2,6,4,12
+1962,Malaya (MAL),2,4,9,15
+1962,Burma (BIR),2,1,5,8
+1962,Singapore (SGP),1,0,2,3
+1962,Ceylon (CEY),0,2,3,5
+1962,Hong Kong (HKG),0,2,0,2
+1962,Afghanistan (AFG),0,0,1,1
+1962,Cambodia (CAM),0,0,1,1
+1962,South Vietnam (VNM),0,0,1,1
+1966,Japan (JPN),78,53,33,164
+1966,South Korea (KOR),12,18,21,51
+1966,Thailand (THA),12,14,11,37
+1966,Malaysia (MAS),7,5,6,18
+1966,India (IND),7,3,11,21
+1966,Iran (IRI),6,8,17,31
+1966,Indonesia (INA),5,5,12,22
+1966,Republic of China (ROC),5,4,10,19
+1966,Israel (ISR),3,5,3,11
+1966,Philippines (PHI),2,15,25,42
+1966,Pakistan (PAK),2,4,2,8
+1966,Burma (BIR),1,0,4,5
+1966,Singapore (SGP),0,5,7,12
+1966,South Vietnam (VNM),0,1,1,2
+1966,Ceylon (CEY),0,0,6,6
+1966,Hong Kong (HKG),0,0,1,1
+1970,Japan (JPN),74,47,23,144
+1970,South Korea (KOR),18,13,23,54
+1970,Thailand (THA),9,17,13,39
+1970,Iran (IRI),9,7,7,23
+1970,India (IND),6,9,10,25
+1970,Israel (ISR),6,6,5,17
+1970,Malaysia (MAS),5,1,7,13
+1970,Burma (BIR),3,2,7,12
+1970,Indonesia (INA),2,5,13,20
+1970,Ceylon (CEY),2,2,0,4
+1970,Philippines (PHI),1,9,12,22
+1970,Republic of China (ROC),1,5,12,18
+1970,Pakistan (PAK),1,2,7,10
+1970,Singapore (SGP),0,6,9,15
+1970,Khmer Republic (KHM),0,2,3,5
+1970,South Vietnam (VNM),0,0,2,2
+1974,Japan (JPN),75,49,51,175
+1974,Iran (IRI),36,28,17,81
+1974,China (CHN),33,46,27,106
+1974,South Korea (KOR),16,26,15,57
+1974,North Korea (PRK),15,14,17,46
+1974,Israel (ISR),7,4,8,19
+1974,India (IND),4,12,12,28
+1974,Thailand (THA),4,2,8,14
+1974,Indonesia (INA),3,4,4,11
+1974,Mongolia (MGL),2,5,8,15
+1974,Pakistan (PAK),2,0,9,11
+1974,Sri Lanka (SRI),2,0,0,2
+1974,Singapore (SGP),1,3,7,11
+1974,Burma (BIR),1,2,3,6
+1974,Iraq (IRQ),1,0,5,6
+1974,Philippines (PHI),0,2,12,14
+1974,Malaysia (MAS),0,1,4,5
+1974,Kuwait (KUW),0,1,0,1
+1974,Afghanistan (AFG),0,0,1,1
+1978,Japan (JPN),70,59,49,178
+1978,China (CHN),51,54,46,151
+1978,South Korea (KOR),18,20,31,69
+1978,North Korea (PRK),15,13,15,43
+1978,Thailand (THA),11,12,19,42
+1978,India (IND),11,11,6,28
+1978,Indonesia (INA),8,7,18,33
+1978,Pakistan (PAK),4,4,9,17
+1978,Philippines (PHI),4,4,6,14
+1978,Iraq (IRQ),2,4,6,12
+1978,Singapore (SGP),2,1,4,7
+1978,Malaysia (MAS),2,1,3,6
+1978,Mongolia (MGL),1,3,5,9
+1978,Lebanon (LBN),1,1,0,2
+1978,Syria (SYR),1,0,0,1
+1978,Burma (BIR),0,3,3,6
+1978,Hong Kong (HKG),0,2,3,5
+1978,Sri Lanka (SRI),0,0,2,2
+1978,Kuwait (KUW),0,0,1,1
+1982,China (CHN),61,51,41,153
+1982,Japan (JPN),57,52,44,153
+1982,South Korea (KOR),28,28,37,93
+1982,North Korea (PRK),17,19,20,56
+1982,India (IND),13,19,25,57
+1982,Indonesia (INA),4,4,7,15
+1982,Iran (IRI),4,4,4,12
+1982,Pakistan (PAK),3,3,5,11
+1982,Mongolia (MGL),3,3,1,7
+1982,Philippines (PHI),2,3,9,14
+1982,Iraq (IRQ),2,3,4,9
+1982,Thailand (THA),1,5,4,10
+1982,Kuwait (KUW),1,3,3,7
+1982,Syria (SYR),1,1,1,3
+1982,Malaysia (MAS),1,0,3,4
+1982,Singapore (SGP),1,0,2,3
+1982,Afghanistan (AFG),0,1,0,1
+1982,Lebanon (LBN),0,1,0,1
+1982,Bahrain (BRN),0,0,1,1
+1982,Hong Kong (HKG),0,0,1,1
+1982,Saudi Arabia (KSA),0,0,1,1
+1982,Qatar (QAT),0,0,1,1
+1982,Vietnam (VIE),0,0,1,1
+1986,China (CHN),94,82,46,222
+1986,South Korea (KOR),93,55,76,224
+1986,Japan (JPN),58,76,77,211
+1986,Iran (IRI),6,6,10,22
+1986,India (IND),5,9,23,37
+1986,Philippines (PHI),4,5,9,18
+1986,Thailand (THA),3,10,13,26
+1986,Pakistan (PAK),2,3,4,9
+1986,Indonesia (INA),1,5,14,20
+1986,Hong Kong (HKG),1,1,3,5
+1986,Qatar (QAT),1,0,3,4
+1986,Bahrain (BRN),1,0,1,2
+1986,Lebanon (LBN),1,0,1,2
+1986,Malaysia (MAS),0,5,5,10
+1986,Iraq (IRQ),0,5,2,7
+1986,Jordan (JOR),0,3,1,4
+1986,Kuwait (KUW),0,1,8,9
+1986,Singapore (SGP),0,1,4,5
+1986,Saudi Arabia (KSA),0,1,0,1
+1986,Nepal (NEP),0,0,8,8
+1986,Bangladesh (BAN),0,0,1,1
+1986,Oman (OMA),0,0,1,1
+1990,China (CHN),183,107,51,341
+1990,South Korea (KOR),54,54,73,181
+1990,Japan (JPN),38,60,76,174
+1990,North Korea (PRK),12,31,39,82
+1990,Iran (IRI),4,6,8,18
+1990,Pakistan (PAK),4,1,7,12
+1990,Indonesia (INA),3,6,21,30
+1990,Qatar (QAT),3,2,1,6
+1990,Thailand (THA),2,7,8,17
+1990,Malaysia (MAS),2,2,4,8
+1990,India (IND),1,8,14,23
+1990,Mongolia (MGL),1,7,9,17
+1990,Philippines (PHI),1,2,7,10
+1990,Syria (SYR),1,0,2,3
+1990,Oman (OMA),1,0,0,1
+1990,Chinese Taipei (TPE),0,10,21,31
+1990,Hong Kong (HKG),0,2,5,7
+1990,Sri Lanka (SRI),0,2,1,3
+1990,Singapore (SGP),0,1,4,5
+1990,Bangladesh (BAN),0,1,0,1
+1990,Myanmar (MYA),0,0,2,2
+1990,Saudi Arabia (KSA),0,0,1,1
+1990,Laos (LAO),0,0,1,1
+1990,Macau (MAC),0,0,1,1
+1990,Nepal (NEP),0,0,1,1
+1994,China (CHN),126,83,57,266
+1994,Japan (JPN),64,75,79,218
+1994,South Korea (KOR),63,56,64,183
+1994,Kazakhstan (KAZ),27,25,27,79
+1994,Uzbekistan (UZB),11,12,19,42
+1994,Iran (IRI),9,9,8,26
+1994,Chinese Taipei (TPE),7,13,24,44
+1994,India (IND),4,3,16,23
+1994,Malaysia (MAS),4,2,13,19
+1994,Qatar (QAT),4,1,5,10
+1994,Indonesia (INA),3,12,11,26
+1994,Thailand (THA),3,9,14,26
+1994,Syria (SYR),3,3,1,7
+1994,Philippines (PHI),3,2,8,13
+1994,Kuwait (KUW),3,1,5,9
+1994,Saudi Arabia (KSA),1,3,5,9
+1994,Turkmenistan (TKM),1,3,3,7
+1994,Mongolia (MGL),1,2,6,9
+1994,Vietnam (VIE),1,2,0,3
+1994,Singapore (SGP),1,1,5,7
+1994,Hong Kong (HKG),0,6,7,13
+1994,Pakistan (PAK),0,4,6,10
+1994,Kyrgyzstan (KGZ),0,4,5,9
+1994,Jordan (JOR),0,2,2,4
+1994,United Arab Emirates (UAE),0,1,3,4
+1994,Macau (MAC),0,1,1,2
+1994,Sri Lanka (SRI),0,1,1,2
+1994,Bangladesh (BAN),0,1,0,1
+1994,Brunei (BRU),0,0,2,2
+1994,Myanmar (MYA),0,0,2,2
+1994,Nepal (NEP),0,0,2,2
+1994,Tajikistan (TJK),0,0,2,2
+1998,China (CHN),129,78,67,274
+1998,South Korea (KOR),65,46,53,164
+1998,Japan (JPN),52,61,68,181
+1998,Thailand (THA),24,26,40,90
+1998,Kazakhstan (KAZ),24,24,30,78
+1998,Chinese Taipei (TPE),19,17,41,77
+1998,Iran (IRI),10,11,13,34
+1998,North Korea (PRK),7,14,12,33
+1998,India (IND),7,11,17,35
+1998,Uzbekistan (UZB),6,22,12,40
+1998,Indonesia (INA),6,10,11,27
+1998,Malaysia (MAS),5,10,14,29
+1998,Hong Kong (HKG),5,6,6,17
+1998,Kuwait (KUW),4,6,4,14
+1998,Sri Lanka (SRI),3,0,3,6
+1998,Pakistan (PAK),2,4,9,15
+1998,Singapore (SGP),2,3,9,14
+1998,Qatar (QAT),2,3,3,8
+1998,Mongolia (MGL),2,2,10,14
+1998,Myanmar (MYA),1,6,4,11
+1998,Philippines (PHI),1,5,12,18
+1998,Vietnam (VIE),1,5,11,17
+1998,Turkmenistan (TKM),1,0,1,2
+1998,Kyrgyzstan (KGZ),0,3,3,6
+1998,Jordan (JOR),0,3,2,5
+1998,Syria (SYR),0,2,4,6
+1998,Nepal (NEP),0,1,3,4
+1998,Macau (MAC),0,1,0,1
+1998,Bangladesh (BAN),0,0,1,1
+1998,Brunei (BRU),0,0,1,1
+1998,Laos (LAO),0,0,1,1
+1998,Oman (OMA),0,0,1,1
+1998,United Arab Emirates (UAE),0,0,1,1
+2002,China (CHN),150,84,74,308
+2002,South Korea (KOR),96,80,84,260
+2002,Japan (JPN),44,73,72,189
+2002,Kazakhstan (KAZ),20,26,30,76
+2002,Uzbekistan (UZB),15,12,24,51
+2002,Thailand (THA),14,19,10,43
+2002,India (IND),11,12,13,36
+2002,Chinese Taipei (TPE),10,17,25,52
+2002,North Korea (PRK),9,11,13,33
+2002,Iran (IRI),8,14,14,36
+2002,Saudi Arabia (KSA),7,1,1,9
+2002,Malaysia (MAS),6,8,16,30
+2002,Singapore (SGP),5,2,10,17
+2002,Indonesia (INA),4,7,12,23
+2002,Vietnam (VIE),4,7,7,18
+2002,Hong Kong (HKG),4,6,11,21
+2002,Qatar (QAT),4,5,8,17
+2002,Philippines (PHI),3,7,16,26
+2002,Bahrain (BRN),3,2,2,7
+2002,Kuwait (KUW),2,1,5,8
+2002,Sri Lanka (SRI),2,1,3,6
+2002,Pakistan (PAK),1,6,6,13
+2002,Kyrgyzstan (KGZ),1,5,6,12
+2002,Myanmar (MYA),1,5,6,12
+2002,Turkmenistan (TKM),1,2,1,4
+2002,Mongolia (MGL),1,1,12,14
+2002,Lebanon (LBN),1,0,0,1
+2002,Tajikistan (TJK),0,2,4,6
+2002,Macau (MAC),0,2,2,4
+2002,United Arab Emirates (UAE),0,2,1,3
+2002,Bangladesh (BAN),0,1,0,1
+2002,Nepal (NEP),0,0,3,3
+2002,Syria (SYR),0,0,3,3
+2002,Jordan (JOR),0,0,2,2
+2002,Laos (LAO),0,0,2,2
+2002,Afghanistan (AFG),0,0,1,1
+2002,Brunei (BRU),0,0,1,1
+2002,Palestine (PLE),0,0,1,1
+2002,Yemen (YEM),0,0,1,1
+2006,China (CHN),165,88,63,316
+2006,South Korea (KOR),58,52,83,193
+2006,Japan (JPN),50,72,78,200
+2006,Kazakhstan (KAZ),23,20,42,85
+2006,Thailand (THA),13,15,26,54
+2006,Iran (IRI),11,15,22,48
+2006,Uzbekistan (UZB),11,14,15,40
+2006,India (IND),10,17,26,53
+2006,Qatar (QAT),9,12,11,32
+2006,Chinese Taipei (TPE),9,10,27,46
+2006,Malaysia (MAS),8,17,17,42
+2006,Singapore (SGP),8,7,12,27
+2006,Saudi Arabia (KSA),8,0,6,14
+2006,Bahrain (BRN),7,9,4,20
+2006,Hong Kong (HKG),6,12,11,29
+2006,North Korea (PRK),6,8,15,29
+2006,Kuwait (KUW),6,5,2,13
+2006,Philippines (PHI),4,6,9,19
+2006,Vietnam (VIE),3,13,7,23
+2006,United Arab Emirates (UAE),3,4,3,10
+2006,Mongolia (MGL),2,5,8,15
+2006,Indonesia (INA),2,4,14,20
+2006,Syria (SYR),2,2,2,6
+2006,Tajikistan (TJK),2,0,2,4
+2006,Jordan (JOR),1,3,4,8
+2006,Lebanon (LBN),1,0,2,3
+2006,Myanmar (MYA),0,4,7,11
+2006,Kyrgyzstan (KGZ),0,2,6,8
+2006,Iraq (IRQ),0,2,1,3
+2006,Macau (MAC),0,1,6,7
+2006,Pakistan (PAK),0,1,3,4
+2006,Sri Lanka (SRI),0,1,2,3
+2006,Laos (LAO),0,1,0,1
+2006,Turkmenistan (TKM),0,1,0,1
+2006,Nepal (NEP),0,0,3,3
+2006,Afghanistan (AFG),0,0,1,1
+2006,Bangladesh (BAN),0,0,1,1
+2006,Yemen (YEM),0,0,1,1
+2010,China (CHN),199,119,98,416
+2010,South Korea (KOR),76,65,91,232
+2010,Japan (JPN),48,74,94,216
+2010,Iran (IRI),20,15,24,59
+2010,Kazakhstan (KAZ),18,23,38,79
+2010,India (IND),14,17,34,65
+2010,Chinese Taipei (TPE),13,16,38,67
+2010,Uzbekistan (UZB),11,22,23,56
+2010,Thailand (THA),11,9,32,52
+2010,Malaysia (MAS),9,18,14,41
+2010,Hong Kong (HKG),8,15,17,40
+2010,North Korea (PRK),6,10,20,36
+2010,Saudi Arabia (KSA),5,3,5,13
+2010,Bahrain (BRN),5,0,4,9
+2010,Indonesia (INA),4,9,13,26
+2010,Singapore (SGP),4,7,6,17
+2010,Athletes from Kuwait (IOC),4,6,1,11
+2010,Qatar (QAT),4,4,7,15
+2010,Philippines (PHI),3,4,9,16
+2010,Pakistan (PAK),3,2,3,8
+2010,Mongolia (MGL),2,5,9,16
+2010,Myanmar (MYA),2,5,3,10
+2010,Jordan (JOR),2,2,2,6
+2010,Vietnam (VIE),1,17,15,33
+2010,Kyrgyzstan (KGZ),1,2,2,5
+2010,Macau (MAC),1,1,4,6
+2010,Bangladesh (BAN),1,1,1,3
+2010,Tajikistan (TJK),1,0,3,4
+2010,Syria (SYR),1,0,1,2
+2010,United Arab Emirates (UAE),0,4,1,5
+2010,Afghanistan (AFG),0,2,1,3
+2010,Iraq (IRQ),0,1,2,3
+2010,Lebanon (LBN),0,1,2,3
+2010,Laos (LAO),0,0,2,2
+2010,Nepal (NEP),0,0,1,1
+2010,Oman (OMA),0,0,1,1
+2014,China (CHN),151,109,85,345
+2014,South Korea (KOR)*,79,70,79,228
+2014,Japan (JPN),47,77,76,200
+2014,Kazakhstan (KAZ),28,23,33,84
+2014,Iran (IRI),21,18,18,57
+2014,Thailand (THA),12,7,28,47
+2014,North Korea (PRK),11,11,14,36
+2014,India (IND),11,10,36,57
+2014,Chinese Taipei (TPE),10,18,23,51
+2014,Qatar (QAT),10,0,4,14
+2014,Uzbekistan (UZB),9,14,22,45
+2014,Bahrain (BRN),9,6,4,19
+2014,Hong Kong (HKG),6,12,25,43
+2014,Malaysia (MAS),5,14,14,33
+2014,Singapore (SGP),5,6,14,25
+2014,Mongolia (MGL),5,4,12,21
+2014,Indonesia (INA),4,5,11,20
+2014,Kuwait (KUW),3,5,4,12
+2014,Saudi Arabia (KSA),3,3,1,7
+2014,Myanmar (MYA),2,1,1,4
+2014,Vietnam (VIE),1,10,25,36
+2014,Philippines (PHI),1,3,11,15
+2014,Pakistan (PAK),1,1,3,5
+2014,Tajikistan (TJK),1,1,3,5
+2014,Iraq (IRQ),1,0,3,4
+2014,United Arab Emirates (UAE),1,0,3,4
+2014,Sri Lanka (SRI),1,0,1,2
+2014,Cambodia (CAM),1,0,0,1
+2014,Macau (MAC),0,3,4,7
+2014,Kyrgyzstan (KGZ),0,2,4,6
+2014,Jordan (JOR),0,2,2,4
+2014,Turkmenistan (TKM),0,1,5,6
+2014,Bangladesh (BAN),0,1,2,3
+2014,Laos (LAO),0,1,2,3
+2014,Afghanistan (AFG),0,1,1,2
+2014,Lebanon (LBN),0,1,1,2
+2014,Nepal (NEP),0,0,1,1
+2018,China (CHN),132,92,65,289
+2018,Japan (JPN),75,56,74,205
+2018,South Korea (KOR),49,58,70,177
+2018,Indonesia (INA)*,31,24,43,98
+2018,Uzbekistan (UZB),21,24,25,70
+2018,Iran (IRI),20,20,22,62
+2018,Chinese Taipei (TPE),17,19,31,67
+2018,India (IND),15,24,30,69
+2018,Kazakhstan (KAZ),15,17,44,76
+2018,North Korea (PRK),12,12,13,37
+2018,Bahrain (BRN),12,7,7,26
+2018,Thailand (THA),11,16,46,73
+2018,Hong Kong (HKG),8,18,20,46
+2018,Malaysia (MAS),7,13,16,36
+2018,Qatar (QAT),6,4,3,13
+2018,Vietnam (VIE),4,16,18,38
+2018,Mongolia (MGL),4,9,11,24
+2018,Singapore (SGP),4,4,14,22
+2018,Philippines (PHI),4,2,15,21
+2018,United Arab Emirates (UAE),3,6,5,14
+2018,Kuwait (KUW),3,1,2,6
+2018,Kyrgyzstan (KGZ),2,6,12,20
+2018,Jordan (JOR),2,1,9,12
+2018,Cambodia (CAM),2,0,1,3
+2018,Saudi Arabia (KSA),1,2,3,6
+2018,Macau (MAC),1,2,2,5
+2018,Iraq (IRQ),1,2,0,3
+2018,Korea (COR),1,1,2,4
+2018,Lebanon (LBN),1,1,2,4
+2018,Tajikistan (TJK),0,4,3,7
+2018,Laos (LAO),0,2,3,5
+2018,Turkmenistan (TKM),0,1,2,3
+2018,Nepal (NEP),0,1,0,1
+2018,Pakistan (PAK),0,0,4,4
+2018,Afghanistan (AFG),0,0,2,2
+2018,Myanmar (MYA),0,0,2,2
+2018,Syria (SYR),0,0,1,1
